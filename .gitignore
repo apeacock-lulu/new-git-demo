@@ -31,9 +31,8 @@ target
 *.iml
 
 # maven
-maven-waeapper.properties
-MavenWrapperDownloader.java
-mvnw.cmd
-mvnw
-README.md
-HELP.md
+/.mvn
+/mvnw.cmd
+/mvnw
+/README.md
+/HELP.md
