@@ -33,7 +33,7 @@ target
 # maven
 maven-waeapper.properties
 MavenWrapperDownloader.java
-*.cmd
+mvnw.cmd
 mvnw
 README.md
 HELP.md
